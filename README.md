@@ -2,4 +2,4 @@
 - 👀 I’m interested in Azure, Windows & Linux, and infrastructure - cloud and physical.
 - 🌱 I’m currently learning Python, SolarWinds Orion Platform, and Terraform.
 - 💼 More about me ...
-    - https://skaldicbyte.com
+    - https://www.beardedge.com
