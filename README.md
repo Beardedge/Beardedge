@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeremy
 - 👀 I’m interested in Azure, Windows & Linux, and infrastructure - cloud and physical.
-- 🌱 I’m currently learning Python, SolarWinds Orion Platform, and Terraform.
+- 🌱 I’m currently learning Python, Azure ARM, and Terraform.
 - 💼 More about me ...
     - https://www.beardedge.com
